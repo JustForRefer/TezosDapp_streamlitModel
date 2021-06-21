@@ -1,4 +1,5 @@
 streamlit==0.69.2
 pandas
 numpy 
-pickle
+sklearn
+ics
